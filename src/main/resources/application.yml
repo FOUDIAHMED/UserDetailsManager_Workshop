@@ -1,0 +1,9 @@
+#spring:
+#  security:
+#    user:
+#      name: ahmed
+#      password: password
+spring:
+  h2:
+    console:
+      enabled: true
